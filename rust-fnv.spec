@@ -5,8 +5,8 @@
 %global crate fnv
 
 Name:           rust-%{crate}
-Version:        1.0.6
-Release:        11%{?dist}
+Version:        1.0.7
+Release:        1%{?dist}
 Summary:        Fowler–Noll–Vo hash function
 
 # Upstream license specification: Apache-2.0 / MIT
